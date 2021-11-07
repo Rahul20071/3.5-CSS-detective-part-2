@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+header {
+           background-color: #BCC1BF;
+           height:100px;
+         }
+h1{
+text-align:center;
+font-family:Arial;
+}
+
+.section1{
+background-color:#7B7B7B;
+font-family: "Lobster", cursive;
+font-size:5em;
+color:#FF2E2E;
+}
+span{
+font-size:12px;
+font-family:arial;
+color:black
+}
+.section2{
+font-family: "VT323", monospace;
+background-color:#E4DBBF;
+font-size:5em;
+color:#70AB8F
+}
+.section3{
+font-family:"Dancing Script", cursive;
+background-color:#E25D33;
+font-size:5em;
+color:#282827;
+}
+.section4{
+font-family: "Kotta One", serif;
+background-color:skyblue;
+font-size:5em;
+color:green;
+}
+.section5{
+font-family: 'Trispace', sans-serif;
+background-color: yellow;
+font-size:5em;
+color:blue;
+}
